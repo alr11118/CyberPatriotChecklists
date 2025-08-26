@@ -1,2 +1,2 @@
 # CyberPatriotChecklists
-Checklists made by me for the CyberPatriot Competition. 
+Checklists I made for the CyberPatriots Compettiton. 
